@@ -3,3 +3,5 @@ rembg
 pillow
 pandas
 streamlit-cropper
+numpy
+scipy
